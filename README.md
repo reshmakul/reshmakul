@@ -32,11 +32,11 @@
 
 </td>
 
-<td width="35%" align="center">
+<!-- <td width="35%" align="center">
 
 <img src="./assets/profile.png" width="220px" alt="Reshma Profile Photo"/>
 
-</td>
+</td> -->
 </tr>
 </table>
 
