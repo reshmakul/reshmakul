@@ -1,15 +1,19 @@
 # Hi, I'm Reshma 👋
 
 <p align="center">
-  
   <a href="./README.md">
     <img src="https://img.shields.io/badge/English-🇬🇧-blue?style=for-the-badge">
   </a>
-
   <a href="./README.de.md">
     <img src="https://img.shields.io/badge/Deutsch-🇩🇪-black?style=for-the-badge">
   </a>
-  <img src="./assets/banner.gif" width="100%">
+</p>
+
+<p align="center">
+  <img
+    src="./assets/banner.gif"
+    width="100%"
+    alt="Reshma J. - Full Stack Developer">
 </p>
 
 ---
